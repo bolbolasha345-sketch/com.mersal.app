@@ -1,0 +1,28 @@
+# Android
+
+# Built application files
+*.apk
+*.ap_/
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+
+# Gradle
+.gradle/
+/local.properties
+/.idea/
+/*.iml
+
+# Android Studio
+captures/
+.externalNativeBuild
+.cxx/
+
+# Android Debug
+*.log
